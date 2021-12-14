@@ -7,4 +7,4 @@ curl \
   -H "Accept: application/vnd.github.v3+json" \
   -H "Authorization: token ${TOKEN}" \
   "https://api.github.com/repos/${OWNER}/${REPOSITORY}/pulls" \
-  -d '{"head": "a03","base": "main", "title": "make from shell"}'
+  -d '{"head": "a04","base": "main", "title": "レビュー一覧取得"}'
