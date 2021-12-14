@@ -1,0 +1,80 @@
+[
+  {
+    "id": 830031084,
+    "node_id": "PRR_kwDOC5wIDM4xeUTs",
+    "user": {
+      "login": "alim-kawaguchi",
+      "id": 44662344,
+      "node_id": "MDQ6VXNlcjQ0NjYyMzQ0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44662344?u=ecb727f583c82f7c2ffacf4a483b347038177faa&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/alim-kawaguchi",
+      "html_url": "https://github.com/alim-kawaguchi",
+      "followers_url": "https://api.github.com/users/alim-kawaguchi/followers",
+      "following_url": "https://api.github.com/users/alim-kawaguchi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alim-kawaguchi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alim-kawaguchi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alim-kawaguchi/subscriptions",
+      "organizations_url": "https://api.github.com/users/alim-kawaguchi/orgs",
+      "repos_url": "https://api.github.com/users/alim-kawaguchi/repos",
+      "events_url": "https://api.github.com/users/alim-kawaguchi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alim-kawaguchi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "クエストクリア回数と通常履歴の件を対応したらLGTM",
+    "state": "APPROVED",
+    "html_url": "https://github.com/alimdevelop/BFXX_Server/pull/3728#pullrequestreview-830031084",
+    "pull_request_url": "https://api.github.com/repos/alimdevelop/BFXX_Server/pulls/3728",
+    "author_association": "COLLABORATOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/alimdevelop/BFXX_Server/pull/3728#pullrequestreview-830031084"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/alimdevelop/BFXX_Server/pulls/3728"
+      }
+    },
+    "submitted_at": "2021-12-13T10:29:57Z",
+    "commit_id": "10cab6343607c580103b59717ad625ea94f50a73"
+  },
+  {
+    "id": 830067628,
+    "node_id": "PRR_kwDOC5wIDM4xedOs",
+    "user": {
+      "login": "koji-ishige",
+      "id": 50350082,
+      "node_id": "MDQ6VXNlcjUwMzUwMDgy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50350082?u=90faac47ddc8f8c2234a47a1d22509c01aa23fe1&v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/koji-ishige",
+      "html_url": "https://github.com/koji-ishige",
+      "followers_url": "https://api.github.com/users/koji-ishige/followers",
+      "following_url": "https://api.github.com/users/koji-ishige/following{/other_user}",
+      "gists_url": "https://api.github.com/users/koji-ishige/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/koji-ishige/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/koji-ishige/subscriptions",
+      "organizations_url": "https://api.github.com/users/koji-ishige/orgs",
+      "repos_url": "https://api.github.com/users/koji-ishige/repos",
+      "events_url": "https://api.github.com/users/koji-ishige/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/koji-ishige/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "> クエストクリア回数/通常履歴\r\n\r\nこちらも確認OKです、ありがとうございます",
+    "state": "APPROVED",
+    "html_url": "https://github.com/alimdevelop/BFXX_Server/pull/3728#pullrequestreview-830067628",
+    "pull_request_url": "https://api.github.com/repos/alimdevelop/BFXX_Server/pulls/3728",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "html": {
+        "href": "https://github.com/alimdevelop/BFXX_Server/pull/3728#pullrequestreview-830067628"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/alimdevelop/BFXX_Server/pulls/3728"
+      }
+    },
+    "submitted_at": "2021-12-13T10:43:41Z",
+    "commit_id": "10cab6343607c580103b59717ad625ea94f50a73"
+  }
+]

@@ -1,0 +1,9 @@
+#!/bin/bash
+USER=manabu.takara@a-lim.co.jp
+OWNER=alimdevelop
+REPOSITORY=BFXX_Server
+
+curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  -H "Authorization: token ${TOKEN}" \
+  "https://api.github.com/repos/${OWNER}/${REPOSITORY}/pulls/3728/reviews"
