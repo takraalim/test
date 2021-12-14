@@ -1,9 +1,8 @@
 #!/bin/bash
 USER=manabu.takara@a-lim.co.jp
 OWNER=takraalim
-TOKEN=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
 REPOSITORY=test
 curl \
   -H "Accept: application/vnd.github.v3+json" \
   -H "Authorization: token ${TOKEN}" \
-  "https://api.github.com/repos/${OWNER}/${REPOSITORY}/pulls/3"
+  "https://api.github.com/repos/${OWNER}/${REPOSITORY}/pulls/4"
